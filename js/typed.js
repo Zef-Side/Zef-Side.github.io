@@ -396,7 +396,7 @@
     };
 
     $.fn.typed.defaults = {
-        strings: ["These are the default values...", "You know what you should do?", "Use your own!", "Have a great day!"],
+        strings: ["My Name is Die Antwoord", "I'm a Jack of Trades", " and Master on most of them 😅"],
         stringsElement: null,
         // typing speed
         typeSpeed: 0,
